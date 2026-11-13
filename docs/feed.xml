@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>這個男朋友是借的｜有聲書</title>
+    <link>https://ntcloudy.github.io/borrowed-podcast/</link>
+    <atom:link href="https://ntcloudy.github.io/borrowed-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-tw</language>
+    <description>《這個男朋友是借的》有聲書。凌晨十二點五十分，資深婚企許若心被鎖在門外，對門搬來一年半只點過頭的工程師陳廷川和一隻賓士貓「肉圓」成了救兵。為了應付媽媽催婚，「借男朋友一個月」的交易就這樣開始——從頭甜到尾的台灣都會戀愛故事。</description>
+    <itunes:author>NTCloudy</itunes:author>
+    <itunes:owner><itunes:name>NTCloudy</itunes:name><itunes:email>robinhood126936@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    <itunes:category text="Fiction"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <item>
+      <title>這個男朋友是借的｜第二十八章　分株</title>
+      <description>《這個男朋友是借的》第二卷「續借」　第二十八章　分株。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e28.mp3" length="8732972" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e28.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 12:28:00 +0800</pubDate>
+      <itunes:duration>1091</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
