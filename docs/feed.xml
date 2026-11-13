@@ -13,6 +13,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <item>
+      <title>這個男朋友是借的｜第一章　紙箱裡的貓</title>
+      <description>《這個男朋友是借的》第一卷「借來的」　第一章　紙箱裡的貓。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e01.mp3" length="8839724" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e01.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 12:01:00 +0800</pubDate>
+      <itunes:duration>1104</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第二章　借期一個月</title>
+      <description>《這個男朋友是借的》第一卷「借來的」　第二章　借期一個月。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e02.mp3" length="9001772" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e02.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 12:02:00 +0800</pubDate>
+      <itunes:duration>1125</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
       <title>這個男朋友是借的｜第二十八章　分株</title>
       <description>《這個男朋友是借的》第二卷「續借」　第二十八章　分株。</description>
       <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e28.mp3" length="8732972" type="audio/mpeg"/>
@@ -592,6 +618,110 @@
       <pubDate>Fri, 13 Nov 2026 13:12:00 +0800</pubDate>
       <itunes:duration>951</itunes:duration>
       <itunes:episode>72</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第七十三章　睡夢中量走的戒圍與游標卡尺的秘密</title>
+      <description>《這個男朋友是借的》第四卷「不還了」　第七十三章　睡夢中量走的戒圍與游標卡尺的秘密。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e73.mp3" length="7686572" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e73.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:13:00 +0800</pubDate>
+      <itunes:duration>960</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第七十四章　冬日暖陽裡的員林密訪與岳父的點頭</title>
+      <description>《這個男朋友是借的》第四卷「不還了」　第七十四章　冬日暖陽裡的員林密訪與岳父的點頭。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e74.mp3" length="7949804" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e74.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:14:00 +0800</pubDate>
+      <itunes:duration>993</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第七十五章　二十五年挖土機的最後一塊銘牌</title>
+      <description>《這個男朋友是借的》第四卷「不還了」　第七十五章　二十五年挖土機的最後一塊銘牌。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e75.mp3" length="7690220" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e75.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:15:00 +0800</pubDate>
+      <itunes:duration>961</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第七十六章　一月八號的敲門一週年與紙箱裡的貓</title>
+      <description>《這個男朋友是借的》第四卷「不還了」　第七十六章　一月八號的敲門一週年與紙箱裡的貓。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e76.mp3" length="7899308" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e76.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:16:00 +0800</pubDate>
+      <itunes:duration>987</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第七十七章　許總召的第一百場婚禮與舞台上的致敬</title>
+      <description>《這個男朋友是借的》第四卷「不還了」　第七十七章　許總召的第一百場婚禮與舞台上的致敬。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e77.mp3" length="7798892" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e77.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:17:00 +0800</pubDate>
+      <itunes:duration>974</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第七十八章　前往埔里的冬夜專車與兩家人的秘密集結</title>
+      <description>《這個男朋友是借的》第四卷「不還了」　第七十八章　前往埔里的冬夜專車與兩家人的秘密集結。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e78.mp3" length="7680236" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e78.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:18:00 +0800</pubDate>
+      <itunes:duration>959</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第七十九章　照亮夜空的茭白筍田燈海與一生一次的求婚</title>
+      <description>《這個男朋友是借的》第四卷「不還了」　第七十九章　照亮夜空的茭白筍田燈海與一生一次的求婚。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e79.mp3" length="8598572" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e79.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:19:00 +0800</pubDate>
+      <itunes:duration>1074</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://ntcloudy.github.io/borrowed-podcast/img/cover.jpg"/>
+    </item>
+    <item>
+      <title>這個男朋友是借的｜第八十章　兩家人的團圓年夜飯：這個老公，一輩子不還了</title>
+      <description>《這個男朋友是借的》第四卷「不還了」　第八十章　兩家人的團圓年夜飯：這個老公，一輩子不還了。</description>
+      <enclosure url="https://ntcloudy.github.io/borrowed-podcast/audio/e80.mp3" length="7558892" type="audio/mpeg"/>
+      <guid isPermaLink="false">borrowed-e80.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:20:00 +0800</pubDate>
+      <itunes:duration>944</itunes:duration>
+      <itunes:episode>80</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
