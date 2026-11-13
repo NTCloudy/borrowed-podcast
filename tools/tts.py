@@ -26,15 +26,23 @@ def chunks(text, n=1200):
     return out
 
 
-async def synth(text, path):
-    for attempt in range(5):
-        try:
-            await edge_tts.Communicate(text, VOICE, rate="+0%").save(path)
-            return
-        except Exception as e:
-            print("retry", e, flush=True)
-            await asyncio.sleep(3 * (attempt + 1))
+async def synth(sem, text, path):
+    async with sem:
+        for attempt in range(5):
+            try:
+                await edge_tts.Communicate(text, VOICE, rate="+0%").save(path)
+                return
+            except Exception as e:
+                print("retry", attempt + 1, e, flush=True)
+                await asyncio.sleep(3 * (attempt + 1))
     raise RuntimeError("tts failed")
+
+
+async def synth_all(parts, td):
+    sem = asyncio.Semaphore(3)
+    files = [f"{td}/{i:03d}.mp3" for i in range(len(parts))]
+    await asyncio.gather(*(synth(sem, t, p) for t, p in zip(parts, files)))
+    return files
 
 
 def main(src, out, intro, outro):
@@ -42,11 +50,7 @@ def main(src, out, intro, outro):
     parts = [intro] + chunks(body) + [outro]
     tmp = out + ".part.mp3"
     with tempfile.TemporaryDirectory() as td:
-        files = []
-        for i, t in enumerate(parts):
-            p = f"{td}/{i:03d}.mp3"
-            asyncio.run(synth(t, p))
-            files.append(p)
+        files = asyncio.run(synth_all(parts, td))
         lst = f"{td}/list.txt"
         open(lst, "w").write("".join(f"file '{f}'\n" for f in files))
         subprocess.run(
